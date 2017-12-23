@@ -1,1 +1,5 @@
 # helloworld
+
+# Jonathan Swerdloff is a Consultant at Driven, Inc. Prior to joining Driven, Jonathan was a litigation associate at Hughes, Hubbard & Reed LLP, accumulating more than 10 years’ experience in eDiscovery that included managing large discovery projects, analysis of enterprise systems, and investigations into nontraditional data sources. Through his experience as a litigator and programmer, Jonathan focused primarily on creative problem solving with regard to all types of data. He analyzed and produced complex enterprise systems and developed internal workflows for large litigations. His experience also includes developing cost-saving legal processes, managing legal budgets, and supervising legal personnel. Prior to becoming a lawyer, Jonathan was a programmer during the first Internet boom.
+
+# Jonathan is admitted to the bars of New York and Connecticut. He holds a J.D. from the Cardozo School of Law and an MPS from NYU’s Tisch School of the Arts Interactive Telecommunications Program, where he studied rapid prototyping and software development. 
